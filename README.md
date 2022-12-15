@@ -1,1 +1,1 @@
-LIFO and FIFO.
+interpreter for Monty file bytecodes
